@@ -4,6 +4,11 @@
 @?{[includes=Fights.Break.Sphere.SP2]} => {[tmdbid=79481;type=tv;s=0;e=EP+2]}
 @?{[includes=Fights.Break.Sphere.SP3]} => {[tmdbid=79481;type=tv;s=0;e=EP+5]}
 #火影忍者
+@?{[tmdbid=46260;type=tv;e=1-57]} => {[s=1;e=EP]}
+@?{[tmdbid=46260;type=tv;e=58-100]} => {[s=2;e=EP]}
+@?{[tmdbid=46260;type=tv;e=101-141]} => {[s=3;e=EP]}
+@?{[tmdbid=46260;type=tv;e=142-183]} => {[s=4;e=EP]}
+@?{[tmdbid=46260;type=tv;e=184-220]} => {[s=5;e=EP]}
 @?{[tmdbid=31910;type=tv;e=221-252]} => {[s=1;e=EP-220]}
 @?{[tmdbid=31910;type=tv;e=253-273]} => {[s=2;e=EP-220]}
 @?{[tmdbid=31910;type=tv;e=274-291]} => {[s=3;e=EP-220]}
