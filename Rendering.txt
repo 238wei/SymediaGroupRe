@@ -29,3 +29,13 @@
 @?{[tmdbid=31910;type=tv;e=593-613]} => {[s=18;e=EP-220]}
 @?{[tmdbid=31910;type=tv;e=614-633]} => {[s=19;e=EP-220]}
 @?{[tmdbid=31910;type=tv;e=634-720]} => {[s=20;e=EP-220]}
+#家庭教师
+@?{[tmdbid=45857;type=tv;e=1-33]} => {[s=1;e=EP]}
+@?{[tmdbid=45857;type=tv;e=34-65]} => {[s=2;e=EP]}
+@?{[tmdbid=45857;type=tv;e=66-73]} => {[s=3;e=EP]}
+@?{[tmdbid=45857;type=tv;e=74-101]} => {[s=4;e=EP]}
+@?{[tmdbid=45857;type=tv;e=102-141]} => {[s=5;e=EP]}
+@?{[tmdbid=45857;type=tv;e=142-153]} => {[s=6;e=EP]}
+@?{[tmdbid=45857;type=tv;e=154-177]} => {[s=7;e=EP]}
+@?{[tmdbid=45857;type=tv;e=178-189]} => {[s=8;e=EP]}
+@?{[tmdbid=45857;type=tv;e=190-203]} => {[s=9;e=EP]}
