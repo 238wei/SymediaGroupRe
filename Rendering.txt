@@ -38,3 +38,5 @@
 @?{[tmdbid=45857;type=tv;e=155-177]} => {[s=6;e=EP]}
 @?{[tmdbid=45857;type=tv;e=178-189]} => {[s=7;e=EP]}
 @?{[tmdbid=45857;type=tv;e=190-203]} => {[s=8;e=EP]}
+#葬送的芙莉莲
+@?{[tmdbid=209867;type=tv;s=2]} => {[s=1;e=EP+28]}
